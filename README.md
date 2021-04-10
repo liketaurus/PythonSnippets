@@ -12,7 +12,6 @@
 * генерація QR-кодів
 
 Ви можете просто переглядати вміст репозиторію, а можете [запустити його в Binder](https://mybinder.org/v2/gh/liketaurus/PythonSnippets/main) аби погратись з кодом.
-
 А якщо ви надаєте перевагу сервісам Google і бажаєте гратись з блокнотом в сучасному й зручному інтерфейсі - [відкрийте його в Google Colab](https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main/SomeDiscreteMathExperiments.ipynb).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liketaurus/PythonSnippets/main)
