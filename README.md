@@ -14,4 +14,4 @@
 Ви можете просто переглядати вміст репозиторію, а можете [запустити його в Binder](https://mybinder.org/v2/gh/liketaurus/PythonSnippets/main) аби погратись з кодом.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liketaurus/PythonSnippets/main)
-https://mybinder.org/v2/gh/liketaurus/PythonSnippets/main
+
