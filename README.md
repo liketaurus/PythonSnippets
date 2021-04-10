@@ -18,7 +18,7 @@
 
 Щоб відкрити весь вміст репозиторію (всі блокноти які тут є або з'являться пізніше) - [**натисніть сюди**]( https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main/) аби відкрити в Google Colab **всю гілку main**. 
 
-Також ви можете клонувати цей репозиторій, а потім працювати з блокнотами в [DeepNote](https://deepnote.com/). Як це зробити - читайте [тут](https://docs.deepnote.com/integrations/github)
+Також ви можете клонувати цей репозиторій, а потім працювати з блокнотами в [DeepNote](https://deepnote.com/). Як це зробити - читайте [тут](https://docs.deepnote.com/integrations/github).
 
 
 
