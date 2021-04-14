@@ -13,12 +13,10 @@
 
 Також щойно додав блокнот для **моніторингу ситуації з пандемією COVID`19 в Україні**.
 
-Всі приклади з математики зараз містяться в одному блокноті. Ви можете просто переглянути його вміст тут же, на GitHub, а можете [запустити його в Binder](https://mybinder.org/v2/gh/liketaurus/PythonSnippets/main) аби погратись з кодом. А якщо ви надаєте перевагу сервісам Google і бажаєте гратись з блокнотом в сучасному й зручному інтерфейсі - [відкрийте його в Google Colab](https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main/SomeDiscreteMathExperiments.ipynb).
+Ви можете просто переглянути вміст блокнотів тут же, на GitHub, а можете [відкрити репозиторій в Binder](https://mybinder.org/v2/gh/liketaurus/PythonSnippets/main) аби погратись з кодом. А якщо ви надаєте перевагу сервісам Google і бажаєте гратись з блокнотами в сучасному й зручному інтерфейсі - [відкрийте репозиторій в Google Colab](https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main/).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liketaurus/PythonSnippets/main)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main/SomeDiscreteMathExperiments.ipynb)
-
-**УВАГА!** Щоб відкрити весь вміст репозиторію (всі блокноти які тут є або з'являться пізніше) - [**натисніть сюди**]( https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main/) аби відкрити в Google Colab **всю гілку main**. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main)
 
 Також ви можете клонувати цей репозиторій, а потім працювати з блокнотами в [DeepNote](https://deepnote.com/). Як це зробити - читайте [тут](https://docs.deepnote.com/integrations/github).
 
