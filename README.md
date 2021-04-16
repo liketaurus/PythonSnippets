@@ -13,10 +13,12 @@
 
 Також щойно додав блокнот для **моніторингу ситуації з пандемією COVID'19 в Україні** і кілька прикладів роботи з математичними виразами, камерою, формами і віджетами.
 
-Ви можете просто переглянути вміст блокнотів тут же, на GitHub, а можете [відкрити репозиторій в Binder](https://mybinder.org/v2/gh/liketaurus/PythonSnippets/main) аби погратись з кодом. А якщо ви надаєте перевагу сервісам Google і бажаєте гратись з блокнотами в сучасному й зручному інтерфейсі - [відкрийте репозиторій в Google Colab](https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main/).
+Ви можете просто переглянути вміст блокнотів тут же, на GitHub, а можете відкрити репозиторій в Binder аби погратись з кодом. А якщо ви надаєте перевагу сервісам Google і бажаєте гратись з блокнотами в сучасному й зручному інтерфейсі - відкрийте репозиторій в Google Colab. Шанувальники VisualStudio Code можуть також відкрити репозиторій в GitPod.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liketaurus/PythonSnippets/main)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/liketaurus/PythonSnippets)
+
 
 Також ви можете клонувати цей репозиторій, а потім працювати з блокнотами в [DeepNote](https://deepnote.com/). Як це зробити - читайте [тут](https://docs.deepnote.com/integrations/github).
 
