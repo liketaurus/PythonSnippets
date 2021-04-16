@@ -17,7 +17,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liketaurus/PythonSnippets/main)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main)
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/liketaurus/PythonSnippets)
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/liketaurus/PythonSnippets)
 
 
 Також ви можете клонувати цей репозиторій, а потім працювати з блокнотами в [DeepNote](https://deepnote.com/). Як це зробити - читайте [тут](https://docs.deepnote.com/integrations/github).
