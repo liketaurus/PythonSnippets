@@ -19,7 +19,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/liketaurus/PythonSnippets)
-[![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespaces-red](https://github.com/codespaces/liketaurus-pythonsnippets-fr2x)
+[![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespace-red)](https://github.com/codespaces/liketaurus-pythonsnippets-fr2x)
 
 
 Також ви можете клонувати цей репозиторій, а потім працювати з блокнотами в [DeepNote](https://deepnote.com/). Як це зробити - читайте [тут](https://docs.deepnote.com/integrations/github).
