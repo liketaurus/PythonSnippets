@@ -19,10 +19,16 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/liketaurus/PythonSnippets/blob/main)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/liketaurus/PythonSnippets)
+
 [![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespace-red)](https://github.com/codespaces/liketaurus-pythonsnippets-fr2x)
 
-
 Також ви можете клонувати цей репозиторій, а потім працювати з блокнотами в [DeepNote](https://deepnote.com/). Як це зробити - читайте [тут](https://docs.deepnote.com/integrations/github).
+
+А ще у вас є можливість обговорювати ці сніпети в девелоперському мессенджері **Gitter** - у відповідній чат-кімнаті.
+
+[![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 
 
